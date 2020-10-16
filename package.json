@@ -1,0 +1,9 @@
+{
+  "name": "default-site",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:nordsyd/default-site.git",
+  "author": "Simon Sorensen <hello@simse.io>",
+  "license": "MIT",
+  "private": true
+}
